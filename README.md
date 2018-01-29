@@ -1,4 +1,4 @@
-# @atomist/lifecycle-automation  
+# @atomist/lifecycle-automation   
 
 [![npm version](https://badge.fury.io/js/%40atomist%2Flifecycle-automation.svg)](https://badge.fury.io/js/%40atomist%2Flifecycle-automation)
 [![Build Status](https://travis-ci.org/atomist/lifecycle-automation.svg?branch=master)](https://travis-ci.org/atomist/lifecycle-automation)
