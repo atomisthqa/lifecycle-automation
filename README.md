@@ -56,7 +56,7 @@ projects, please see our [contributing guidelines][contrib] and
 our [code of conduct][code].
 
 [contrib]: https://github.com/atomist/welcome/blob/master/CONTRIBUTING.md
-[code]: https://github.com/atomist/welcome/blob/master/CODE_OF_CONDUCT.md
+[code]: https://github.com/atomist/welcome/blob/master/CODE_OF_CONDUCT.md  
 
 ## Development
 
