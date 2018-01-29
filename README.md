@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/%40atomist%2Flifecycle-automation.svg)](https://badge.fury.io/js/%40atomist%2Flifecycle-automation)
 [![Build Status](https://travis-ci.org/atomist/lifecycle-automation.svg?branch=master)](https://travis-ci.org/atomist/lifecycle-automation)
-    
+      
 This project contains lifecycle automations that create beautiful,  
 correlated, and actionable [Slack][slack] messages for issues,      
 pull requests, pushes, builds, and deployments using     
