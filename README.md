@@ -19,7 +19,7 @@ client that connects to the [Atomist][atomist] API.
 This Atomist API client can provide your team with better Slack messages about what is
 happening in your development and delivery lifecycle by
 simply adding the Atomist Bot to your Slack team:
-
+ 
 <p align="center">
  <a href="https://atm.st/2wiDlUe">
   <img alt="Add to Slack" height="50" width="174" src="https://platform.slack-edge.com/img/add_to_slack@2x.png" />
