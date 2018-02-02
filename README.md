@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/atomist/lifecycle-automation.svg?branch=master)](https://travis-ci.org/atomist/lifecycle-automation)
           
 This project contains lifecycle automations that create beautiful,         
-correlated, and actionable [Slack][slack] messages for issues,      
+correlated, and actionable [Slack][slack] messages for issues,       
 pull requests, pushes, builds, and deployments using      
 the [`@atomist/automation-client`][client] node module to implement a
 client that connects to the [Atomist][atomist] API.  
